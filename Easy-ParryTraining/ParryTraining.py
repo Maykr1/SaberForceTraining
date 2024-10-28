@@ -3,10 +3,10 @@ import keyboard
 import random
 import time
 
-min_interval = 1 #seconds
-max_interval = 2 #seconds
+min_interval = 0.5 #seconds
+max_interval = 3 #seconds
 
-print("Parry-Training Script started. Press '5' to stop.") #Cannot be in IDE, textbox, chatbox, or anything when pressing 5
+print("Parry-Training Script started. Press '5' to stop.") #Cannot be in IDE, textbox, chatbox, or anything when pressing 5 (You might have to spam it)
 
 try:
     while True:
