@@ -1,0 +1,5 @@
+Easy - Parry Training
+
+Uses pyautoguui, keyboard, random, and time modules to click on the screen at random intervals
+
+To exit program, press 5 on your keyboard or Ctrl C in the dedicated terminal you ran the script on
